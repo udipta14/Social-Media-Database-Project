@@ -1,6 +1,6 @@
 <h1 align="center">Social Media Database Project</h1>
 
-# About❓
+# About
 <ul>
 <li>Through this project  I am creating a basic structure of social media database which could easily be connected to frontend interface.  </li>
 <li>Here I am managing the data of multiple users, their followers, interests and public activity on the social media platform which includes postlikes ,comments , commentlikes , hashtag followed ,bookmarks and many more... </li>
@@ -42,3 +42,6 @@
 
 11. **Query 11: Any specific word in comment**
     - This query searches for comments containing specific words like "good" or "beautiful." It's useful for finding and categorizing comments with particular keywords.
+   
+
+For More Enquiry Click On 👉 [LinkedIn](www.linkedin.com/in/udipta-anupam)
